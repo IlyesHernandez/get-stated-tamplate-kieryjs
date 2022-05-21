@@ -7,3 +7,5 @@ kieryjs.createServer({
     port: 3000, // at port 3000 (http://localhost:3000)
     staticFolder: 'public' // set static folder (css, js, img) to "public"
 });
+
+kieryjs.app.listen(3000)
