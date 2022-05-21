@@ -10,10 +10,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "kieryjs": "^1.0.1"
-  },
   "devDependencies": {
     "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "kieryjs": "^1.1.1"
   }
 }
