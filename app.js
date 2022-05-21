@@ -8,4 +8,4 @@ kieryjs.createServer({
     staticFolder: 'public' // set static folder (css, js, img) to "public"
 });
 
-kieryjs.app.listen(3000)
+kieryjs.app.listen(8080)
