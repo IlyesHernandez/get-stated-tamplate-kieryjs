@@ -1,0 +1,19 @@
+{
+  "name": "get-stated-tamplate",
+  "version": "1.0.0",
+  "description": "A simple tamplate for using KieryJS",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "build": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kieryjs": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
